@@ -1,2 +1,3 @@
 # bitcoin-analysis
-attempt at analyzing and predicting bitcoin data 
+
+A juoyter notebook documenting my attempt at analyzing and predicting bitcoin price data.
